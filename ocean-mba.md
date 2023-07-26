@@ -1,0 +1,147 @@
+# Ocean MBA
+
+[My](https://www.nozdrenkov.com/about) notes from the [Ocean MBA](https://www.propellervc.com/oceanmba) workshop organised by [Propeller VC](https://www.propellervc.com/) at MIT.
+
+### May 17 2023
+
+- Brian Halligan (HubSpot CEO) -- Picking the Path to Becoming a Narwhal: The HubSpot Case Study
+  - total addressable market (TAM)
+  - lifetime value (LTV) -- how much revenue you can get from customer from the entire life
+    - median Ollie pays us 5k (these are the arbitrary number to understand LTV).
+    - `1k$ --> [Hubspot Ollie] --> 5K` -- `ROI 500%`
+    - `5k$ --> [Hubspot Mary] --> 15k` -- `ROI 300%`
+  - gross margin fees
+  - sales commission price
+  - customer retention, e.g.: `65% - 88%`
+  - upsell, e.g.: `3% - 15%`
+  - revenue retention, e.g.: `68% - 105%`
+  - second pricing axes - subscriptions / contacts -- need to think how we're creating price, e.g. hectares covered by system, compute/storage used, etc.
+  - PNL - profit and loss
+  - SMB - small medium size business --> his MailChimp friend suggests Small & Enterprise exist only, no medium
+  - inbound vs outbound marketing
+  - "What are you right about that everyone else thinks you're wrong about" Peter Thiel
+  - think about healthy disagreement -- e.g. you have two co-founders, if both disagree and one is strongly disagreed, but another is OK to stay on the rails, in that case they're doing the way of the strongly disagreed person. If both strongly disagree, then e.g. CEO decides. You need to come up with these rules in advance.
+  - [saastr.com](https://www.saastr.com/) - HubSpot story.
+- Carol Anne Clayson | Intro to WHOI
+- Tod Hynes | Beachhead Markets & Hard Stories From Building Hard Tech
+  - Disciplined Enterpreneurship #book - market segmentation -- really good book on market research, etc
+  - IRR, WACC, COCA
+  - market entry: `easy vs hard`, market size: `small vs large`
+- Jake Russel and Senna Ohlsson chat:
+  - Jake read my blog aww ^^
+  - Kristin McDonald biodiversity: https://blog.toucan.earth/biodiversity-the-next-frontier-for-tokenized-markets
+  - Newsletters, podcasts, organisations they follow:
+    - Climate Tech VC (CTVC)
+    - Keep Pool
+    - Forbes Business, Tech Crunch, MIT review
+    - Blue Tech X
+    - Adapting Michael Campus
+  - MPA impact on economies
+    Blue Bond Belize -- creating MPAs for developing countries (similar to our Ghana use-case).
+    Loss of biodiversity, "who gets f\*\*\*ed?"
+- Brian Halligan | Strategy Lessons From The Grateful Dead
+  - China Cat Sunflower - Live in Paris 1972 Version
+    - jam band -- music style as mix of styles
+  - Blue Ocean Strategy #book - not to outperform your competitors, but watch them -- good book about marketing
+  - the strategy canvas
+  - the innovator's dilemma #book -- more complex features, more profitable customers, as a result, they open the door for easier simpler products for less profitable customers
+    - make a market
+    - disrupt an existing market
+  - find a **podcast** they listen to, get on that podcast and talk about your company
+    - host an event, 55 stakeholders in the industry - in core market
+- Subit Chakrabarti | Building Product: A Scientist's journey to creating and building products
+  - Don't judge researchers by papers, even if they are in Nature. Github is better predictor. Or startups where they working.
+  - My question: expectation to hedge your bets and publish papers while working at startup? Did you manage doing that?
+    - Reply: managed to do! It was hard though, but good for raising money. Though prioritise github if you have to choose one :)
+  - Tech debt is NOT your enemy - inefficiency, rabbit holes, bad planning
+  - Your mission is your biggest unreasonable advantage. Use it wisely.
+- Dharmesh Shah | How to Grow Better (and build one of the world’s best places to work)
+  - Just like you attracting people with your product, same way you attract your team with your culture, so culture is a product, employees are customers of our product. What features they want? What bugs they found? Basically treat it like a product feedback session.
+  - They published culture code. Transparency matters. E.g. you can filter out people, or Internet is very good at telling you why you're an idiot.
+  - if you have a burning urge to create a company - you go do that, if you have a burning enterpreneurial drive, but you don't know your idea yet, come join us, it would be like a mini MBA, you can learn from it -- his recruiting pitch.
+  - people value transparency - they know burn rate and everyone's salary, so they were also more careful to hire people, only people they trusted they hired
+- Eddie Halfyard recommends:
+  - ICCT, ICES for data
+  - Gemini - Florida diving for fun and conservation
+- Be careful with forecasting population dynamics data as an open platform, because fisheries could use it -- need to think about how to solve it (e.g. control access who you allow forecasting, don't forecast based on resent data, e.g. last half a year).
+
+### May 18 2023
+
+- Jenny Elizabeth Larios Berlin | People Ops: Building Crews That Can Sail To Success
+  - Reece -- name ideas (so it's not "Reece's idea", but rather the idea has a name, removing self from it)
+- Hannah Murnen | Product Market Fit: Sinking, Swimming, or Sailing?
+  - selling something that people want to buy
+  - `<-- create novelty .... create value (we want to be here) -->`
+  - Gorilla Glass was invented in 1952, but started making money only recently, didn't have product market fit
+  - you don't yet know who is a customer so need to have a conversations across **the value chain**
+  - do you understand the pain facing your customers?
+    - test hypothesis
+    - test assumptions
+    - ask about problems and how they are solved today, understand inertia and what it would take to overcome it
+    - double click on excitement, frustration, etc
+    - run the numbers - what are they spending now? are they losing money because of this problem?
+  - test the solution
+  - test the customer and value chain
+    - what is the value chain of this market?
+    - are you talking to right people?
+    - who makes purchasing decisions?
+    - for whom your solution create the most value
+    - how do you know they are interested?
+      - 2nd and 3rd conversations
+      - start to think about next steps - how to implement, test, try
+      - commitment in time and materials, money
+      - reputation - do they talk about you?
+  - What companies are the most at risk that would be willing to bring you in? (Bob's question)
+    - you need to have your beachhead market, i.e. where are you gonna get the money first
+      - then you have an approach, you know non-profits are gonna pay you, then you get the data
+    - Need to find 2-3 players in each vertical
+    - you can identify the problem, but your approach needs to be very specific on how to solve the problem
+    - Exxon Valdez oil spill
+- Kaitlin Callanan | Sales: Know Your Customer, Know Your Course
+  - types of pain matters
+    - vitamin vs pain killer
+    - nice to have vs need to have
+    - user pain vs dm pain
+    - pain scale: how bad it hurts
+  - prioritise pain of decision maker
+  - describe the pain your target customer experiences? how bad does it hurt?
+  - customer research coversations:
+    - protect against your assumptions
+    - look for things you don't want to hear, roadblocks, for "no"s
+  - Mom Test #book recommended
+- Rick Rubin - Creative Act #book (recommended by Garrett Boudinot) -- "the goal is not to make the art, the goal is to be in this blissful moment that creates art"
+- Sebastien de Halleux | Founder Hour: The Saildrone Story
+  - super inspiring talk and the guy looks like Luke Skywalker
+  - success has an equation
+    - scaling products = creating hits -- `success = f(price, quantity)`
+    - scaling products = nurturing hits -- `success = f(distribution, aggregation, monetization)`
+    - scaling data = exploding dimnsions
+      - `success = f(utility, space, frequency, time, resolution, quality, exclusivity, security)`
+      - if you improve any of these, you have success, function is independent
+  - ocean net - large database of images in the sea
+  - billion dollar fish #book - about how economic zones emerged
+  - argofloats algoflows algofloat & glider
+- Kate Leonard & Joe Theis | Startup Legalese: Tips, Terms and Term Sheets w/ Goodwin Procter
+- Britt Gardner | Finance: Startup Finance Readiness For (Ad)venture Capital
+  - common types of revenue formulas:
+    - subscription - saas, canva
+    - markup - retail ecommerce - amazon
+    - pay per user - unlock features, slack
+    - commission - marketplaces airbnb
+    - licensing - "rent" the IP - adobe
+- Kyla Westphal | Climate Comms: Headwinds or Following Seas?
+  - audience matrix - important audience segments that requires communication
+    - biodiversity researchers
+    - governments
+    - NGOs
+- Dr. Carmela Cuomo recommends talking to:
+  - Ocean vision AI
+  - USA ID
+- Timothy Bouley recommends:
+  - Camelar - coalition of nonprofits
+  - Boris - his friend, who's going to Arctic and Antarctic expeditions
+- Kaitlin Callanan recommends:
+  - Scripps oceanography institute
+  - National Geographic
+
+Read more on my blog: [nozdrenkov.com/ocean-mba](https://www.nozdrenkov.com/ocean-mba).
